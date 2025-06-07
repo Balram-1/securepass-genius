@@ -1,6 +1,7 @@
 # SecurePass Genius
 
-![SecurePass Genius Banner](https://img.shields.io/badge/SecurePass-Genius-blueviolet?style=for-the-badge), open-source password generator and strength checker with advanced options and a sleek web UI.*
+![SecurePass Genius Banner](https://img.shields.io/badge/SecurePass-Genius-blueviolet?style=for-the-badge)
+ open-source password generator and strength checker with advanced options and a sleek web UI.
 
 ---
 
