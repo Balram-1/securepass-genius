@@ -1,6 +1,8 @@
 # SecurePass Genius
 
 ![SecurePass Genius Banner](https://img.shields.io/badge/SecurePass-Genius-blueviolet?style=for-the-badge)
+
+
  open-source password generator and strength checker with advanced options and a sleek web UI.
 
 ---
@@ -29,7 +31,8 @@
 
 ## 🌟 Screenshots
 
-![Screenshot](https://user-images.githubusercontent.com/yourusername/securepass 🛠️ Getting Started
+![image](https://github.com/user-attachments/assets/71bab7b6-a938-4898-9f6e-3c7cd1e05727)
+ 🛠️ Getting Started
 
 1. **Clone the repo:**
    ```bash
